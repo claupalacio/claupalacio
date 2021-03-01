@@ -6,6 +6,7 @@
   <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=claupalacio&layout=compact&theme=dracula" />
 </p>
 
+<!--
 <p align="center">
   <a href="https://dev.to/perkles" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="perkles" height="35" width="35" />
@@ -21,11 +22,12 @@
   </a>
 </p>
 
-
+<!--
 <p align="center">
   Confira eventos que eu participei, organanizei ou contribui
 </p>
 
+<!--
 <details>
   <summary>Hackathons</summary>
   
@@ -39,6 +41,7 @@
     
 </details>
 
+<!--
 <details>
 <summary>Educational Content</summary>
   
